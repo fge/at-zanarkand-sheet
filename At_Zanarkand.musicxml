@@ -4935,7 +4935,20 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
+      <note default-x="89.31" default-y="-115.00">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>5</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <staff>2</staff>
+        </note>
       <note default-x="89.31" default-y="-105.00">
+        <chord/>
         <pitch>
           <step>A</step>
           <octave>3</octave>
