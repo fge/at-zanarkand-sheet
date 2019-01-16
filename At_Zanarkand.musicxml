@@ -4820,7 +4820,19 @@
         <stem>up</stem>
         <staff>2</staff>
         </note>
+      <note default-x="64.12" default-y="-110.00">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>5</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <staff>2</staff>
+        </note>
       <note default-x="64.12" default-y="-100.00">
+        <chord/>
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -4883,7 +4895,20 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <note default-x="20.42" default-y="-115.00">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>5</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <staff>2</staff>
+        </note>
       <note default-x="20.42" default-y="-105.00">
+        <chord/>
         <pitch>
           <step>A</step>
           <octave>3</octave>
