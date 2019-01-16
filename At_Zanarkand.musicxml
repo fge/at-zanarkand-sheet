@@ -8,7 +8,7 @@
     <creator type="composer">Nobuo Uematsu</creator>
     <encoding>
       <software>MuseScore 2.3.2</software>
-      <encoding-date>2019-01-15</encoding-date>
+      <encoding-date>2019-01-16</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -185,11 +185,6 @@
         <stem>down</stem>
         <staff>1</staff>
         <beam number="1">begin</beam>
-        <notations>
-          <technical>
-            <fingering>3</fingering>
-            </technical>
-          </notations>
         </note>
       <note default-x="194.50" default-y="-10.00">
         <pitch>
@@ -357,11 +352,6 @@
         <stem>down</stem>
         <staff>1</staff>
         <beam number="1">begin</beam>
-        <notations>
-          <technical>
-            <fingering>3</fingering>
-            </technical>
-          </notations>
         </note>
       <note default-x="128.32" default-y="-15.00">
         <pitch>
@@ -540,11 +530,6 @@
         <stem>down</stem>
         <staff>2</staff>
         <beam number="1">end</beam>
-        <notations>
-          <technical>
-            <fingering>5</fingering>
-            </technical>
-          </notations>
         </note>
       <note default-x="105.01" default-y="-110.00">
         <pitch>
@@ -874,11 +859,6 @@
         <stem>up</stem>
         <staff>2</staff>
         <beam number="1">end</beam>
-        <notations>
-          <technical>
-            <fingering>5</fingering>
-            </technical>
-          </notations>
         </note>
       <note default-x="163.37" default-y="-120.00">
         <pitch>
@@ -1292,11 +1272,6 @@
         <stem>down</stem>
         <staff>2</staff>
         <beam number="1">end</beam>
-        <notations>
-          <technical>
-            <fingering>3</fingering>
-            </technical>
-          </notations>
         </note>
       <note default-x="115.34" default-y="-110.00">
         <pitch>
@@ -1809,11 +1784,6 @@
         <stem>down</stem>
         <staff>2</staff>
         <beam number="1">end</beam>
-        <notations>
-          <technical>
-            <fingering>3</fingering>
-            </technical>
-          </notations>
         </note>
       <note default-x="115.08" default-y="-110.00">
         <pitch>
@@ -2352,11 +2322,6 @@
         <stem>down</stem>
         <staff>2</staff>
         <beam number="1">end</beam>
-        <notations>
-          <technical>
-            <fingering>3</fingering>
-            </technical>
-          </notations>
         </note>
       <note default-x="151.89" default-y="-110.00">
         <pitch>
