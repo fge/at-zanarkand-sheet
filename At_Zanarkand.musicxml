@@ -5022,10 +5022,10 @@
       <backup>
         <duration>6</duration>
         </backup>
-      <note default-x="12.36" default-y="-165.00">
+      <note default-x="12.36" default-y="-170.00">
         <pitch>
-          <step>C</step>
-          <octave>2</octave>
+          <step>B</step>
+          <octave>1</octave>
           </pitch>
         <duration>1</duration>
         <voice>5</voice>
