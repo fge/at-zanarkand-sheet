@@ -8,7 +8,7 @@
     <creator type="composer">Nobuo Uematsu</creator>
     <encoding>
       <software>MuseScore 2.3.2</software>
-      <encoding-date>2019-02-21</encoding-date>
+      <encoding-date>2019-03-07</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -483,6 +483,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="12.00" default-y="-155.00">
         <pitch>
           <step>C</step>
@@ -633,6 +639,12 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="7" width="166.77">
       <note default-x="12.00" default-y="-35.00">
@@ -826,6 +838,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="66.69" default-y="-165.00">
         <pitch>
           <step>A</step>
@@ -975,6 +993,12 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="11" width="176.29">
       <note default-x="16.00" default-y="-15.00">
@@ -992,6 +1016,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="16.36" default-y="-175.00">
         <pitch>
           <step>F</step>
@@ -1156,6 +1186,12 @@
         <voice>5</voice>
         <staff>2</staff>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="13" width="180.94">
       <barline location="left">
@@ -1232,6 +1268,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="12.00" default-y="-120.00">
         <pitch>
           <step>E</step>
@@ -1305,6 +1347,12 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="14" width="196.94">
       <note default-x="12.00" default-y="-20.00">
@@ -1356,6 +1404,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="12.00" default-y="-95.00">
         <pitch>
           <step>C</step>
@@ -1437,6 +1491,12 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="15" width="249.11">
       <print new-system="yes">
@@ -1526,6 +1586,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="67.27" default-y="-125.00">
         <pitch>
           <step>D</step>
@@ -1599,6 +1665,12 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="16" width="179.84">
       <note default-x="12.00" default-y="-45.00">
@@ -1629,6 +1701,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="12.36" default-y="-145.00">
         <pitch>
           <step>G</step>
@@ -1701,6 +1779,12 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="17" width="203.84">
       <note default-x="12.00" default-y="-30.00">
@@ -1767,6 +1851,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="12.00" default-y="-120.00">
         <pitch>
           <step>E</step>
@@ -1840,6 +1930,12 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="18" width="219.84">
       <note default-x="12.00" default-y="-20.00">
@@ -1891,6 +1987,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="12.00" default-y="-95.00">
         <pitch>
           <step>C</step>
@@ -1972,6 +2074,12 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="19" width="203.84">
       <note default-x="12.00" default-y="0.00">
@@ -2050,6 +2158,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="12.00" default-y="-125.00">
         <pitch>
           <step>D</step>
@@ -2123,6 +2237,12 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="20" width="199.44">
       <print new-system="yes">
@@ -2165,6 +2285,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="67.63" default-y="-145.00">
         <pitch>
           <step>G</step>
@@ -2237,6 +2363,12 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="21" width="177.81">
       <note default-x="12.00" default-y="-30.00">
@@ -2303,6 +2435,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="12.00" default-y="-120.00">
         <pitch>
           <step>E</step>
@@ -2376,6 +2514,12 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="22" width="193.81">
       <note default-x="12.00" default-y="-20.00">
@@ -2427,6 +2571,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="12.00" default-y="-95.00">
         <pitch>
           <step>C</step>
@@ -2508,6 +2658,12 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="23" width="177.81">
       <note default-x="12.00" default-y="-35.00">
@@ -2585,6 +2741,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="12.00" default-y="-125.00">
         <pitch>
           <step>D</step>
@@ -2658,6 +2820,12 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="24" width="153.81">
       <note default-x="12.00" default-y="-45.00">
@@ -2710,6 +2878,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="12.36" default-y="-145.00">
         <pitch>
           <step>G</step>
@@ -2783,6 +2957,12 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="25" width="153.81">
       <note default-x="12.00" default-y="-45.00">
@@ -2869,6 +3049,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="12.00" default-y="-130.00">
         <pitch>
           <step>C</step>
@@ -2941,6 +3127,12 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="26" width="168.48">
       <print new-system="yes">
@@ -3095,6 +3287,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="12.00" default-y="-140.00">
         <pitch>
           <step>A</step>
@@ -3154,6 +3352,12 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="28" width="185.85">
       <attributes>
@@ -3391,6 +3595,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="12.36" default-y="-165.00">
         <pitch>
           <step>A</step>
@@ -3463,6 +3673,12 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="31" width="189.20">
       <note default-x="16.36" default-y="-25.00">
@@ -3526,6 +3742,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="16.36" default-y="-175.00">
         <pitch>
           <step>F</step>
@@ -3600,6 +3822,12 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="32" width="215.56">
       <print new-page="yes">
@@ -3639,6 +3867,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="67.05" default-y="-170.00">
         <pitch>
           <step>G</step>
@@ -3711,6 +3945,12 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="33" width="183.19">
       <note default-x="24.73" default-y="-20.00">
@@ -3763,6 +4003,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="25.09" default-y="-180.00">
         <pitch>
           <step>E</step>
@@ -3836,6 +4082,12 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="34" width="185.92">
       <note default-x="12.00" default-y="-20.00">
@@ -3864,6 +4116,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="12.36" default-y="-160.00">
         <pitch>
           <step>B</step>
@@ -3939,6 +4197,12 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="35" width="111.67">
       <note default-x="31.14" default-y="-25.00">
@@ -4046,6 +4310,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="12.36" default-y="-165.00">
         <pitch>
           <step>A</step>
@@ -4118,6 +4388,12 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="37" width="189.63">
       <note default-x="25.09" default-y="-35.00">
@@ -4194,6 +4470,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="24.73" default-y="-160.00">
         <pitch>
           <step>B</step>
@@ -4229,6 +4511,12 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="38" width="220.11">
       <print new-system="yes">
@@ -4299,6 +4587,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="67.63" default-y="-135.00">
         <pitch>
           <step>B</step>
@@ -4375,6 +4669,12 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="39" width="149.07">
       <note default-x="12.00" default-y="-25.00">
@@ -4451,6 +4751,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="12.00" default-y="-145.00">
         <pitch>
           <step>G</step>
@@ -4523,6 +4829,12 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="40" width="166.48">
       <note default-x="18.42" default-y="-40.00">
@@ -4577,6 +4889,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="18.78" default-y="-140.00">
         <pitch>
           <step>A</step>
@@ -4651,6 +4969,12 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="41" width="179.90">
       <note default-x="18.42" default-y="-15.00">
@@ -4697,6 +5021,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="18.78" default-y="-150.00">
         <pitch>
           <step>F</step>
@@ -4775,6 +5105,12 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="42" width="129.08">
       <note default-x="31.99" default-y="5.00">
@@ -4817,6 +5153,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="31.63" default-y="-130.00">
         <pitch>
           <step>C</step>
@@ -4846,6 +5188,12 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="43" width="91.77">
       <note default-x="12.00" default-y="-30.00">
@@ -4886,6 +5234,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="12.00" default-y="-145.00">
         <pitch>
           <step>G</step>
@@ -4932,6 +5286,12 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="44" width="120.09">
       <note default-x="20.78" default-y="-25.00">
@@ -4984,6 +5344,12 @@
       <backup>
         <duration>6</duration>
         </backup>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="yes" default-y="-80.00"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       <note default-x="20.42" default-y="-115.00">
         <pitch>
           <step>F</step>
@@ -5046,6 +5412,12 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="yes"/>
+          </direction-type>
+        <staff>2</staff>
+        </direction>
       </measure>
     <measure number="45" width="593.68">
       <print new-system="yes">
